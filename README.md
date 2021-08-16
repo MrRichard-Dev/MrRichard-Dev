@@ -7,10 +7,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ri-PHP" height="30" width="40" src="	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Ri-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Ri-Shell" height="30" width="40" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img align="right" alt="Ri-photo" src="https://avatars.githubusercontent.com/u/76010686?v=4">
+  <img align="center" alt="Ri-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Ri-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Ri-Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img align="right" alt="Ri-photo" height="200" width="200" src="https://avatars.githubusercontent.com/u/76010686?v=4">
 </div> 
 
 ##
