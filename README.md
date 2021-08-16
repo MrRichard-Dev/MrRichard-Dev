@@ -13,8 +13,11 @@
   <img align="right" alt="Ri-photo" src="https://avatars.githubusercontent.com/u/76010686?v=4">
 </div> 
 
- <div> 
+##
+
+<div> 
   <a href="https://t.me/MrRichardOFC" target="_blank"><img src="	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rich_alvesc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:richardempresarial00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richard-alves-cunha-33a10715b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
