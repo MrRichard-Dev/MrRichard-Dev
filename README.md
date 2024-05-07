@@ -1,4 +1,4 @@
-### Hello friend 🤖
+### Hello, Friend 🤖
 
 <div>
   <a href="https://github.com/MrRichardOFC">
