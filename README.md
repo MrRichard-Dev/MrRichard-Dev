@@ -1,4 +1,4 @@
-### Saudaçâoes 👋
+### Hello friend 🤖
 
 <div>
   <a href="https://github.com/MrRichardOFC">
