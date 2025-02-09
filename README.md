@@ -1,1 +1,1 @@
-### Hello, friend 👾
+### Hello friend 👾
